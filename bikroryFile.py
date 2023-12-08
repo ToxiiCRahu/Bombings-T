@@ -25,4 +25,4 @@ headers1["referer"] = "https://bikroy.com/en/?login-modal=true&redirect-url=/"
 
 for i in range(amount):
     resp1 = requests.get(url1, headers=headers1)
-    print(str(i+    1)+(")                     SMS SEND"))
+    print(str(i+    1)+(")    Hi message send                  SMS SEND"))
